@@ -323,19 +323,5 @@
       "name": "Employment",
       "keyid": 3
     }
-  ],
-  "labels": [
-    {
-      "id": 21,
-      "name": "Commercial"
-    },
-    {
-      "id": 32,
-      "name": "Nonprofit"
-    },
-    {
-      "id": 43,
-      "name": "Private"
-    }
   ]
 }
