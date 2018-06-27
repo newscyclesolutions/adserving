@@ -263,21 +263,79 @@
       "name": "980x120"
     }
   ],
-  "targeting": [
+  "targetingKeys": [
     {
       "id": 1,
-      "name": "Site.com",
-      "parentid": 0
+      "name": "Age Group"
     },
     {
       "id": 2,
-      "name": "website.com",
-      "parentid": 0
+      "name": "Browser"
     },
     {
       "id": 3,
-      "name": "newscycle.com",
-      "parentid": 0
+      "name": "Category"
+    }
+  ],
+  "targetingValues": [
+    {
+      "id": 1,
+      "name": "0-10",
+      "keyid": 1
+    },
+    {
+      "id": 2,
+      "name": "11-20",
+      "keyid": 1
+    },
+    {
+      "id": 3,
+      "name": "21-40",
+      "keyid": 1
+    },
+    {
+      "id": 4,
+      "name": "Edge",
+      "keyid": 2
+    },
+    {
+      "id": 5,
+      "name": "Chrome",
+      "keyid": 2
+    },
+    {
+      "id": 6,
+      "name": "Safari",
+      "keyid": 2
+    },
+    {
+      "id": 7,
+      "name": "Firefox",
+      "keyid": 2
+    },
+    {
+      "id": 8,
+      "name": "Automotive",
+      "keyid": 3
+    },
+    {
+      "id": 9,
+      "name": "Employment",
+      "keyid": 3
+    }
+  ],
+  "labels": [
+    {
+      "id": 21,
+      "name": "Commercial"
+    },
+    {
+      "id": 32,
+      "name": "Nonprofit"
+    },
+    {
+      "id": 43,
+      "name": "Private"
     }
   ]
 }
